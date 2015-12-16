@@ -1,0 +1,1802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager" forced_jdk="true">
+    <libelement value="jar://$MODULE_DIR$/jars/compile/activation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/antlr.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/apache-mime4j-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/apache-mime4j-dom.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/asm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/aspectjrt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/avro-ipc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/avro.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/bcmail-jdk15on.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/bcpkix-jdk15on.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/bcprov-jdk15on.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/bliki-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/boilerpipe.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/bubing.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/bzip2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/c3p0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/cdm.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/collections-generic.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/colt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-beanutils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-cli.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-codec.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-collections.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-compress.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-configuration.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-csv.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-digester.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-el.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-exec.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-fileupload.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-httpclient.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-io.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-lang.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-lang3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-logging-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-logging.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-math.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-math3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-net.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-validator.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/commons-vfs2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/concurrent.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/cxf-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/cxf-rt-frontend-jaxrs.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/cxf-rt-rs-client.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/cxf-rt-transports-http.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/dnsjava.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/dsiutils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/ehcache-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/fastutil.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/fontbox.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/geoapi.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/grib.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/guava.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/hadoop-annotations.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/hadoop-auth.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/hadoop-common.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/hamcrest-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/httpclient.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/httpcore.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/httpmime.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/httpservices.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/isoparser.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jackcess-encrypt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jackcess.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jackson-core-asl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jackson-jaxrs.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jackson-mapper-asl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jackson-xc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jai4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jasper-compiler.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jasper-runtime.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/java-libpst.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/javacc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/javax.annotation-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/javax.ws.rs-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jaxb-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jaxb-impl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jcip-annotations.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jcl-over-slf4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jcommander.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jdiff.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jdom.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jdom2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/je.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jempbox.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jericho-html-dev.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jersey-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jersey-json.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jersey-server.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jets3t.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jettison.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jetty-util.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jetty.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jgroups.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jhighlight.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jj2000.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jmatio.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jna.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/joda-time.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jsap.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/json-simple.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/json.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jsoup.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jsp-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jsr-275.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jung-algorithms.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jung-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jung-io.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/junit.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/juniversalchardet.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/junrar.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/jwnl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/kfs.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/log4j-over-slf4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/logback-classic.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/logback-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/mail.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/maven-scm-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/maven-scm-provider-svn-commons.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/maven-scm-provider-svnexe.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/metadata-extractor.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/mg4j-big.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/mx4j-tools.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/mx4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/mysql-connector-java.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/netcdf4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/netty.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/opennlp-maxent.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/opennlp-tools.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/oro.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/paranamer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/pdfbox.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/plexus-utils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/poi-ooxml-schemas.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/poi-ooxml.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/poi-scratchpad.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/poi.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/pojo-mbean.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/protobuf-java.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/quartz.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/regexp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/rome.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/servlet-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/sis-metadata.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/sis-netcdf.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/sis-referencing.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/sis-storage.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/sis-utility.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/slf4j-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/snappy-java.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/sslext.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/stax-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/stax2-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/struts.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/sux4j.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/tagsoup.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/tika-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/tika-parsers.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/udunits.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/umlgraph.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/velocity-dep.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/velocity-tools.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/velocity.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/vorbis-java-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/vorbis-java-tika.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/webgraph-big.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/webgraph.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/woodstox-core-asl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/wstx-asl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/xalan.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/xmlbeans.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/xmlenc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/xmlschema-core.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/xmpcore.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/jars/compile/xz.jar!/" />
+    <varelement var="file://$MODULE_DIR$/src" kind="linksrc:" value="src" />
+    <varelement var="file://$JRE_LIB$" value="JRE_LIB" />
+    <varelement var="file://$JRE_SRC$" kind="src:" value="JRE_SRC" />
+    <src_description expected_position="1">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/src">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="JRE_LIB">
+        <CLASSES>
+          <root url="file://$JRE_LIB$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$JRE_SRC$" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="activation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/activation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="antlr.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/antlr.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apache-mime4j-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/apache-mime4j-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="apache-mime4j-dom.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/apache-mime4j-dom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="asm.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/asm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjrt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/aspectjrt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avro-ipc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/avro-ipc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="avro.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/avro.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcmail-jdk15on.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/bcmail-jdk15on.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcpkix-jdk15on.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/bcpkix-jdk15on.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bcprov-jdk15on.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/bcprov-jdk15on.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bliki-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/bliki-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="boilerpipe.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/boilerpipe.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bubing.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/bubing.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bzip2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/bzip2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="c3p0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/c3p0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cdm.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/cdm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="collections-generic.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/collections-generic.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="colt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/colt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-beanutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-cli.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-cli.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-codec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-collections.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-compress.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-compress.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-configuration.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-configuration.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-csv.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-csv.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-digester.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-el.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-el.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-exec.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-exec.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-fileupload.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-httpclient.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-httpclient.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-io.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-lang.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-lang3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-logging-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-logging.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-math.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-math3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-math3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-net.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-net.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-validator.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-validator.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-vfs2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/commons-vfs2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="concurrent.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/concurrent.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cxf-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/cxf-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cxf-rt-frontend-jaxrs.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/cxf-rt-frontend-jaxrs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cxf-rt-rs-client.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/cxf-rt-rs-client.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cxf-rt-transports-http.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/cxf-rt-transports-http.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dnsjava.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/dnsjava.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dsiutils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/dsiutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ehcache-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/ehcache-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fastutil.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/fastutil.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="fontbox.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/fontbox.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="geoapi.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/geoapi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="grib.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/grib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="guava.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/guava.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-annotations.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/hadoop-annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-auth.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/hadoop-auth.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hadoop-common.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/hadoop-common.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hamcrest-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/hamcrest-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/httpclient.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/httpcore.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpmime.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/httpmime.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpservices.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/httpservices.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="isoparser.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/isoparser.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackcess-encrypt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jackcess-encrypt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackcess.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jackcess.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-asl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jackson-core-asl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-jaxrs.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jackson-jaxrs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-mapper-asl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jackson-mapper-asl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-xc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jackson-xc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jai4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jai4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jasper-compiler.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jasper-compiler.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jasper-runtime.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jasper-runtime.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-libpst.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/java-libpst.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javacc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/javacc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.annotation-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/javax.annotation-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.ws.rs-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/javax.ws.rs-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jaxb-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-impl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jaxb-impl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcip-annotations.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jcip-annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcl-over-slf4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jcl-over-slf4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcommander.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jcommander.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdiff.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jdiff.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdom.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jdom.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdom2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jdom2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="je.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/je.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jempbox.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jempbox.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jericho-html-dev.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jericho-html-dev.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jersey-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-json.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jersey-json.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jersey-server.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jersey-server.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jets3t.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jets3t.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jettison.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jettison.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty-util.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jetty-util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jetty.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jetty.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jgroups.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jgroups.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jhighlight.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jhighlight.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jj2000.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jj2000.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jmatio.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jmatio.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jna.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jna.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="joda-time.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/joda-time.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsap.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jsap.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-simple.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/json-simple.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/json.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsoup.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jsoup.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsp-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jsp-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsr-275.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jsr-275.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jung-algorithms.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jung-algorithms.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jung-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jung-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jung-io.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jung-io.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junit.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/junit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="juniversalchardet.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/juniversalchardet.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="junrar.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/junrar.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jwnl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/jwnl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="kfs.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/kfs.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-over-slf4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/log4j-over-slf4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="logback-classic.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/logback-classic.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="logback-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/logback-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mail.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/mail.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-scm-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/maven-scm-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-scm-provider-svn-commons.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/maven-scm-provider-svn-commons.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="maven-scm-provider-svnexe.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/maven-scm-provider-svnexe.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="metadata-extractor.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/metadata-extractor.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mg4j-big.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/mg4j-big.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mx4j-tools.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/mx4j-tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mx4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/mx4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/mysql-connector-java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netcdf4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/netcdf4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="netty.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/netty.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opennlp-maxent.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/opennlp-maxent.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="opennlp-tools.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/opennlp-tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="oro.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/oro.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="paranamer.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/paranamer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pdfbox.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/pdfbox.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="plexus-utils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/plexus-utils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-schemas.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/poi-ooxml-schemas.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/poi-ooxml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-scratchpad.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/poi-scratchpad.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/poi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pojo-mbean.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/pojo-mbean.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="protobuf-java.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/protobuf-java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="quartz.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/quartz.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="regexp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/regexp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rome.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/rome.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="servlet-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/servlet-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sis-metadata.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/sis-metadata.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sis-netcdf.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/sis-netcdf.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sis-referencing.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/sis-referencing.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sis-storage.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/sis-storage.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sis-utility.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/sis-utility.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/slf4j-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="snappy-java.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/snappy-java.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sslext.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/sslext.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/stax-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="stax2-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/stax2-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/struts.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sux4j.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/sux4j.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tagsoup.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/tagsoup.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tika-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/tika-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="tika-parsers.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/tika-parsers.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="udunits.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/udunits.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="umlgraph.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/umlgraph.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-dep.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/velocity-dep.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-tools.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/velocity-tools.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/velocity.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="vorbis-java-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/vorbis-java-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="vorbis-java-tika.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/vorbis-java-tika.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webgraph-big.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/webgraph-big.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webgraph.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/webgraph.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="woodstox-core-asl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/woodstox-core-asl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="wstx-asl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/wstx-asl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xalan.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/xalan.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbeans.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/xmlbeans.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlenc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/xmlenc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlschema-core.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/xmlschema-core.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmpcore.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/xmpcore.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xz.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/jars/compile/xz.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
